@@ -1,16 +1,16 @@
 {
-  "short_name": "CryptoSwap Finance",
-  "name": "CryptoSwap Finance",
-  "description": "Farm CSWAP and earn USD-C!",
+  "short_name": "UNICORN Finance",
+  "name": "UNICORN Finance",
+  "description": "Farm UNIQ with LP Tokens",
   "icons": [
     {
-      "src": "favicon.ico",
+      "src": "",
       "type": "image/x-icon",
-      "sizes": "16x16"
+      "sizes": "256x256"
     }
   ],
   "start_url": ".",
   "display": "standalone",
   "theme_color": "#000000",
-  "background_color": "#00000"
+  "background_color": "#ffffff"
 }

@@ -3,13 +3,13 @@
     {
       "data": {
         "stringId": 278,
-        "text": "Farm"
+        "text": "FARM"
       }
     },
     {
       "data": {
         "stringId": 280,
-        "text": "Staking"
+        "text": "STAKING"
       }
     },
     {
@@ -39,7 +39,7 @@
     {
       "data": {
         "stringId": 292,
-        "text": "Unlock Wallet"
+        "text": "UNLOCK WALLET"
       }
     },
     {
@@ -57,7 +57,7 @@
     {
       "data": {
         "stringId": 298,
-        "text": "LOCKED"
+        "text": "Locked"
       }
     },
     {
@@ -75,7 +75,7 @@
     {
       "data": {
         "stringId": 304,
-        "text": "Total CSWAP burned since launch"
+        "text": "Total UNIQ burned since launch"
       }
     },
     {
@@ -123,13 +123,13 @@
     {
       "data": {
         "stringId": 320,
-        "text": "Stake LP tokens to earn CSWAP"
+        "text": "Stake LP tokens to earn UNIQ"
       }
     },
     {
       "data": {
         "stringId": 322,
-        "text": "Stake CSWAP, get SYRUP."
+        "text": "Stake UNIQ, get SYRUP."
       }
     },
     {
@@ -153,7 +153,7 @@
     {
       "data": {
         "stringId": 334,
-        "text": "Every time you stake and unstake CSWAP tokens, the contract will automatically harvest CSWAP rewards for you!"
+        "text": "Every time you stake and unstake UNIQ tokens, the contract will automatically harvest UNIQ rewards for you!"
       }
     },
     {
@@ -189,7 +189,7 @@
     {
       "data": {
         "stringId": 348,
-        "text": "Dividends"
+        "text": "Pool"
       }
     },
     {
@@ -213,13 +213,13 @@
     {
       "data": {
         "stringId": 356,
-        "text": "View on Explorer"
+        "text": "View on PolyScan"
       }
     },
     {
       "data": {
         "stringId": 358,
-        "text": "CSWAP price"
+        "text": "UNIQ price"
       }
     },
     {
@@ -243,7 +243,7 @@
     {
       "data": {
         "stringId": 380,
-        "text": "1 CSWAP = 1 SYRUP"
+        "text": "1 UNIQ = 1 SYRUP"
       }
     },
     {
@@ -291,7 +291,7 @@
     {
       "data": {
         "stringId": 400,
-        "text": "SYRUP holders proportionally split 25% of CSWAP block emissions each day (10 CSWAP per block), Rewards are distributed each block."
+        "text": "SYRUP holders proportionally split 25% of UNIQ block emissions each day (10 UNIQ per block), Rewards are distributed each block."
       }
     },
     {
@@ -315,13 +315,7 @@
     {
       "data": {
         "stringId": 410,
-        "text": "Blocks until end"
-      }
-    },
-    {
-      "data": {
-        "stringId": 411,
-        "text": "Blocks until start"
+        "text": "End"
       }
     },
     {
@@ -357,13 +351,13 @@
     {
       "data": {
         "stringId": 424,
-        "text": "%num% CSWAP"
+        "text": "%num% UNIQ"
       }
     },
     {
       "data": {
         "stringId": 426,
-        "text": "Spend CSWAP to buy tickets, contributing to the lottery pot. Ticket purchases end approx. 30 minutes before lottery. Win prizes if 2, 3, or 4 of your ticket numbers match the winning numbers and their positions! Good luck!"
+        "text": "Spend UNIQ to buy tickets, contributing to the lottery pot. Ticket purchases end approx. 30 minutes before lottery. Win prizes if 2, 3, or 4 of your ticket numbers match the winning numbers and their positions! Good luck!"
       }
     },
     {
@@ -441,19 +435,19 @@
     {
       "data": {
         "stringId": 454,
-        "text": "%num% CSWAP Available"
+        "text": "%num% UNIQ Available"
       }
     },
     {
       "data": {
         "stringId": 456,
-        "text": "Your amount must be a multiple of 10 CSWAP"
+        "text": "Your amount must be a multiple of 10 UNIQ"
       }
     },
     {
       "data": {
         "stringId": 458,
-        "text": "1 Ticket = 10 CSWAP"
+        "text": "1 Ticket = 10 UNIQ"
       }
     },
     {
@@ -501,7 +495,7 @@
     {
       "data": {
         "stringId": 478,
-        "text": "Ticket purchases are final. Your CSWAP cannot be returned to you after buying tickets."
+        "text": "Ticket purchases are final. Your UNIQ cannot be returned to you after buying tickets."
       }
     },
     {
@@ -513,7 +507,7 @@
     {
       "data": {
         "stringId": 482,
-        "text": "CSWAP prizes to be claimed"
+        "text": "UNIQ prizes to be claimed"
       }
     },
     {
@@ -549,13 +543,13 @@
     {
       "data": {
         "stringId": 494,
-        "text": "Approve CSWAP"
+        "text": "Approve UNIQ"
       }
     },
     {
       "data": {
         "stringId": 496,
-        "text": "SYRUP holders proportionally split 40% of CSWAP block emissions each day (10 CSWAP per block), Rewards are distributed each block."
+        "text": "SYRUP holders proportionally split 40% of UNIQ block emissions each day (10 UNIQ per block), Rewards are distributed each block."
       }
     },
     {
@@ -573,19 +567,19 @@
     {
       "data": {
         "stringId": 504,
-        "text": "You\u2019ll pay for the new tokens using CSWAP-BNB LP tokens, which means you need to stake equal amounts of CSWAP and BNB in a liquidity pool to take part."
+        "text": "You\u2019ll pay for the new tokens using UNIQ-BNB LP tokens, which means you need to stake equal amounts of UNIQ and BNB in a liquidity pool to take part."
       }
     },
     {
       "data": {
         "stringId": 506,
-        "text": "Get CSWAP-BNB LP >"
+        "text": "Get UNIQ-BNB LP >"
       }
     },
     {
       "data": {
         "stringId": 508,
-        "text": "The project gets the BNB, CryptoSwap Finance burns the CSWAP."
+        "text": "The project gets the BNB, UNICORN Finance burns the UNIQ."
       }
     },
     {
@@ -603,7 +597,7 @@
     {
       "data": {
         "stringId": 514,
-        "text": "Launch your project with CryptoSwap Finance, Binance Smart Chain\u2019s most-used AMM project and liquidity provider, to bring your token directly to the most active and rapidly growing community on BSC."
+        "text": "Launch your project with UNICORN Finance, Binance Smart Chain\u2019s most-used AMM project and liquidity provider, to bring your token directly to the most active and rapidly growing community on BSC."
       }
     },
     {
@@ -645,13 +639,13 @@
     {
       "data": {
         "stringId": 532,
-        "text": "Harvest all (%count%)"
+        "text": "HARVEST ALL (%count%)"
       }
     },
     {
       "data": {
         "stringId": 534,
-        "text": "CSWAP Stats"
+        "text": "UNIQ STATS"
       }
     },
     {
@@ -669,31 +663,31 @@
     {
       "data": {
         "stringId": 540,
-        "text": "New CSWAP\/block"
+        "text": "New Unic\/Block"
       }
     },
     {
       "data": {
         "stringId": 542,
-        "text": "My assets"
+        "text": "FARMS & STAKING"
       }
     },
     {
       "data": {
         "stringId": 544,
-        "text": "CSWAP to Harvest"
+        "text": "UNIQ TO HARVEST"
       }
     },
     {
       "data": {
         "stringId": 546,
-        "text": "CSWAP in Wallet"
+        "text": "UNIQ IN WALLET"
       }
     },
     {
       "data": {
         "stringId": 548,
-        "text": "Collecting CSWAP"
+        "text": "Collecting UNIQ"
       }
     },
     {
@@ -705,13 +699,13 @@
     {
       "data": {
         "stringId": 552,
-        "text": "CSWAP to Collect"
+        "text": "UNIQ to Collect"
       }
     },
     {
       "data": {
         "stringId": 554,
-        "text": "Total jackpot this round"
+        "text": "TOTAL jackpot this round"
       }
     },
     {
@@ -759,19 +753,19 @@
     {
       "data": {
         "stringId": 576,
-        "text": "Game Swap"
+        "text": "UNICORN Finance"
       }
     },
     {
       "data": {
         "stringId": 578,
-        "text": "Can't stop, won't stop, GameSwap."
+        "text": "Top 3 best DEFI app on Binance Smart Chain."
       }
     },
     {
       "data": {
         "stringId": 580,
-        "text": "Stake CSWAPs to earn new tokens."
+        "text": "Stake UNIQ to earn new tokens."
       }
     },
     {
@@ -789,7 +783,7 @@
     {
       "data": {
         "stringId": 586,
-        "text": "CSWAP to burn (USD)"
+        "text": "UNIQ to burn (USD)"
       }
     },
     {
@@ -801,7 +795,7 @@
     {
       "data": {
         "stringId": 590,
-        "text": "\u2b50\ufe0f Every time you stake and unstake LP tokens, the contract will automatically harvest CSWAP rewards for you!"
+        "text": "\u2b50\ufe0f Every time you stake and unstake LP tokens, the contract will automatically harvest UNIQ rewards for you!"
       }
     },
     {
@@ -819,13 +813,13 @@
     {
       "data": {
         "stringId": 596,
-        "text": "Buy CSWAP and BNB tokens"
+        "text": "Buy UNIQ and BNB tokens"
       }
     },
     {
       "data": {
         "stringId": 598,
-        "text": "Get CSWAP-BNB LP tokens by adding CSWAP and BNB liquidity"
+        "text": "Get UNIQ-BNB LP tokens by adding UNIQ and BNB liquidity"
       }
     },
     {
@@ -837,7 +831,7 @@
     {
       "data": {
         "stringId": 602,
-        "text": "While the sale is live, commit your CSWAP-LP tokens to buy the IFO tokens"
+        "text": "While the sale is live, commit your UNIQ-LP tokens to buy the IFO tokens"
       }
     },
     {
@@ -873,7 +867,7 @@
     {
       "data": {
         "stringId": 614,
-        "text": "Trade in for CSWAP, or keep for your collection!"
+        "text": "Trade in for UNIQ, or keep for your collection!"
       }
     },
     {
@@ -915,7 +909,7 @@
     {
       "data": {
         "stringId": 628,
-        "text": "When you trade in this NFT to receive CSWAP, you will lose access to it forever!"
+        "text": "When you trade in this NFT to receive UNIQ, you will lose access to it forever!"
       }
     },
     {
@@ -945,7 +939,7 @@
     {
       "data": {
         "stringId": 638,
-        "text": "Winners can trade in their NFTs for a CSWAP value until the expiry date written below. If you don't trade in your NFT by then, don\u2019t worry: you\u2019ll still keep it in your wallet!"
+        "text": "Winners can trade in their NFTs for a UNIQ value until the expiry date written below. If you don't trade in your NFT by then, don\u2019t worry: you\u2019ll still keep it in your wallet!"
       }
     },
     {
@@ -987,7 +981,7 @@
     {
       "data": {
         "stringId": 654,
-        "text": "Trade in for CSWAP"
+        "text": "Trade in for UNIQ"
       }
     },
     {
@@ -1113,7 +1107,7 @@
     {
       "data": {
         "stringId": 696,
-        "text": "Stake LP tokens to earn CSWAP"
+        "text": "Stake LP tokens to earn UNIQ"
       }
     },
     {
@@ -1155,13 +1149,13 @@
     {
       "data": {
         "stringId": 708,
-        "text": "The CSWAP Lottery"
+        "text": "The UNIQ Lottery"
       }
     },
     {
       "data": {
         "stringId": 710,
-        "text": "Buy tickets with CSWAP"
+        "text": "Buy tickets with UNIQ"
       }
     },
     {
@@ -1215,7 +1209,7 @@
     {
       "data": {
         "stringId": 10000,
-        "text": "Deposit Fee will be paid to holders as dividends"
+        "text": "Deposit Fee will be used to buyback UNIQ"
       }
     },
     {
@@ -1227,13 +1221,13 @@
     {
       "data": {
         "stringId": 10002,
-        "text": "Stake tokens to earn CSWAP"
+        "text": "Stake tokens to earn UNIQ"
       }
     },
     {
       "data": {
         "stringId": 10003,
-        "text": "Newsletter"
+        "text": "ANNOUNCEMENTS"
       }
     },
     {
